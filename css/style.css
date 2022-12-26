@@ -19,9 +19,10 @@
   
   /* Create two unequal columns that floats next to each other */
   /* Left column */
-  .leftcolumn {
+  .column {
     float: left;
     width: 75%;
+    text-align: center;
   }
   
   /* Right column */
